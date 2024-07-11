@@ -1,6 +1,6 @@
 # Vrinda-Store-Data-Analysis---Excel
 
-Excel Project: Vrinda Store Data Analysis and Visualization
+#Excel Project: Vrinda Store Data Analysis and Visualization
 
 I successfully completed an Excel project focused on analyzing and visualizing data sourced from  datasets related to a store. Here’s a detailed outline of the project:
 
